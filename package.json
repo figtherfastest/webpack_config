@@ -1,0 +1,18 @@
+{
+  "name": "webpack_init",
+  "version": "1.0.0",
+  "description": "this is my first webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config ./build/webpack-common.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
+    "lodash": "^4.17.15",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7"
+  }
+}
